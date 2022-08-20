@@ -1,0 +1,21 @@
+.main {
+    max-width: 1350px;
+   
+    margin: 0 auto;
+    padding: 10px;
+
+
+
+
+}
+.Personal-Details{
+    margin-right: 10px;
+    
+}
+
+label{
+    margin-right: 10px;
+}
+input{
+    margin-left: 50px;
+}
